@@ -15,7 +15,7 @@
 
 ## About - درباره
 
-### English
+### About Shiftchi
 Shiftchi is a smart shift management application that helps users easily manage their work shifts and sync with Google Calendar.
 
 **Features:**
@@ -30,7 +30,7 @@ Shiftchi is a smart shift management application that helps users easily manage 
 
 <div dir="rtl" lang="fa" style="text-align: right; font-family: Tahoma, Arial;">
 
-<h3>فارسی</h3>
+<h3>درباره شیفت‌چی</h3>
 
 <p>شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است که به کاربران کمک می‌کند تا شیفت‌های خود را به راحتی مدیریت کرده و با Google Calendar همگام‌سازی کنند.</p>
 
@@ -52,7 +52,7 @@ Shiftchi is a smart shift management application that helps users easily manage 
 
 **Last Updated:** February 2026
 
-### English Version
+### Privacy Policy
 
 #### Summary
 Shiftchi takes your privacy seriously. We only collect information necessary for the app's functionality and never share it with third parties.
@@ -110,7 +110,7 @@ This app is not designed for individuals under 13 years of age.
 
 <div dir="rtl" lang="fa" style="text-align: right; font-family: Tahoma, Arial;">
 
-<h3>نسخه فارسی</h3>
+<h3>سیاست حفظ حریم خصوصی</h3>
 
 <h4>خلاصه</h4>
 <p>شیفت‌چی حریم خصوصی شما را جدی می‌گیرد. ما فقط اطلاعات ضروری را جمع‌آوری می‌کنیم و هیچ‌گاه آن‌ها را به اشتراک نمی‌گذاریم.</p>
@@ -184,7 +184,7 @@ This app is not designed for individuals under 13 years of age.
 
 **Last Updated:** February 2026
 
-### English Version
+### Terms of Service
 
 #### Summary
 By using Shiftchi, you agree to use the application legally and responsibly.
@@ -250,7 +250,7 @@ App provided "as is":
 
 <div dir="rtl" lang="fa" style="text-align: right; font-family: Tahoma, Arial;">
 
-<h3>نسخه فارسی</h3>
+<h3>شرایط استفاده</h3>
 
 <h4>خلاصه</h4>
 <p>با استفاده از شیفت‌چی، شما موافقت می‌کنید که از اپلیکیشن به صورت قانونی استفاده کنید.</p>
