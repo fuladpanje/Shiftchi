@@ -1,71 +1,47 @@
-# راهنمای انتشار صفحات Privacy Policy و Terms of Service
+# شیفت‌چی - Shiftchi
 
-## مرحله 1: آپلود به GitHub
+<div dir="rtl">
 
-### گزینه A: اگر قبلاً GitHub دارید
+## 📱 درباره اپلیکیشن
 
-1. این پوشه `docs` را به repository خود اضافه کنید
-2. Commit و Push کنید:
-```bash
-git add docs/
-git commit -m "Add privacy policy and terms of service"
-git push
-```
+شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است که به کاربران کمک می‌کند تا شیفت‌های خود را به راحتی مدیریت کرده و با Google Calendar همگام‌سازی کنند.
 
-### گزینه B: اگر GitHub ندارید
+## 🔗 لینک‌های مهم
 
-1. به [github.com](https://github.com) بروید و ثبت‌نام کنید
-2. یک repository جدید بسازید (مثلاً `shiftchi-privacy`)
-3. فایل‌های داخل پوشه `docs` را آپلود کنید
+- [صفحه اصلی](https://YOUR_USERNAME.github.io/YOUR_REPO/)
+- [سیاست حفظ حریم خصوصی](https://YOUR_USERNAME.github.io/YOUR_REPO/privacy-policy.html)
+- [شرایط استفاده](https://YOUR_USERNAME.github.io/YOUR_REPO/terms-of-service.html)
 
-## مرحله 2: فعال‌سازی GitHub Pages
+## ✨ امکانات
 
-1. به repository خود بروید
-2. به **Settings** بروید
-3. از منوی سمت چپ **Pages** را انتخاب کنید
-4. در قسمت **Source**:
-   - Branch: `main` (یا `master`)
-   - Folder: `/docs`
-5. روی **Save** کلیک کنید
+- 📊 مدیریت شیفت‌های کاری
+- 🔔 یادآوری‌های هوشمند
+- 📅 همگام‌سازی با Google Calendar
+- 📈 گزارش‌گیری و آمار
+- 💾 پشتیبان‌گیری امن
+- 🌙 حالت شب/روز
 
-## مرحله 3: دریافت لینک‌ها
+## 🔒 حریم خصوصی
 
-بعد از 2-3 دقیقه، صفحات شما در این آدرس‌ها در دسترس خواهند بود:
+ما به حریم خصوصی کاربران اهمیت ویژه‌ای می‌دهیم:
+- اطلاعات شما رمزنگاری شده ذخیره می‌شود
+- هیچ‌گاه اطلاعات شما به اشتراک گذاشته نمی‌شود
+- همگام‌سازی Google Calendar کاملاً اختیاری است
+- می‌توانید هر زمان حساب خود را حذف کنید
 
-```
-https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
-https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/privacy-policy.html
-https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/terms-of-service.html
-```
+## 📞 تماس با ما
 
-## مرحله 4: استفاده در Google Console
+- ایمیل: support@shiftchi.app
+- وب‌سایت: [shiftchi.app](https://YOUR_USERNAME.github.io/YOUR_REPO/)
 
-این لینک‌ها را در Google Cloud Console وارد کنید:
+## 📄 مستندات
 
-- **Application home page**: `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`
-- **Privacy policy link**: `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/privacy-policy.html`
-- **Terms of service link**: `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/terms-of-service.html`
+این repository شامل مستندات قانونی اپلیکیشن شیفت‌چی است:
+- Privacy Policy (سیاست حفظ حریم خصوصی)
+- Terms of Service (شرایط استفاده)
 
-## نکات مهم
+---
 
-✅ **قبل از ارسال به Google:**
-- لینک‌ها را در مرورگر باز کنید و مطمئن شوید کار می‌کنند
-- ایمیل `support@shiftchi.app` را با ایمیل واقعی خود جایگزین کنید
-- اگر اپلیکیشن در Play Store منتشر کردید، لینک Play Store را در `index.html` اضافه کنید
+© 2026 شیفت‌چی. تمامی حقوق محفوظ است.
 
-✅ **بعد از تایید Google:**
-- این لینک‌ها را در اپلیکیشن Flutter خود نیز اضافه کنید (در صفحه تنظیمات)
-
-## سوالات متداول
-
-**Q: آیا باید دامنه اختصاصی داشته باشم؟**
-A: خیر، GitHub Pages کافی است.
-
-**Q: آیا این صفحات رایگان هستند؟**
-A: بله، GitHub Pages کاملاً رایگان است.
-
-**Q: چطور محتوا را ویرایش کنم؟**
-A: فایل‌های HTML را ویرایش کنید و دوباره push کنید.
-
-**Q: چند وقت طول می‌کشد تا تغییرات اعمال شود؟**
-A: معمولاً 1-2 دقیقه.
+</div>
