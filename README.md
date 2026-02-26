@@ -8,9 +8,10 @@
 
 ## 🔗 لینک‌های مهم
 
-- [صفحه اصلی](https://YOUR_USERNAME.github.io/YOUR_REPO/)
-- [سیاست حفظ حریم خصوصی](https://YOUR_USERNAME.github.io/YOUR_REPO/privacy-policy.html)
-- [شرایط استفاده](https://YOUR_USERNAME.github.io/YOUR_REPO/terms-of-service.html)
+- [صفحه اصلی](https://fuladpanje.github.io/Shiftchi/)
+- [سیاست حفظ حریم خصوصی](https://fuladpanje.github.io/Shiftchi/privacy-policy.html)
+- [شرایط استفاده](https://fuladpanje.github.io/Shiftchi/terms-of-service.html)
+
 
 ## ✨ امکانات
 
@@ -25,14 +26,12 @@
 
 ما به حریم خصوصی کاربران اهمیت ویژه‌ای می‌دهیم:
 - اطلاعات شما رمزنگاری شده ذخیره می‌شود
-- هیچ‌گاه اطلاعات شما به اشتراک گذاشته نمی‌شود
-- همگام‌سازی Google Calendar کاملاً اختیاری است
-- می‌توانید هر زمان حساب خود را حذف کنید
-
 ## 📞 تماس با ما
 
-- ایمیل: support@shiftchi.app
-- وب‌سایت: [shiftchi.app](https://YOUR_USERNAME.github.io/YOUR_REPO/)
+- ایمیل: takbaran.com@gmail.com
+## 📞 تماس با ما
+
+- ایمیل: takbaran.com@gmail.com
 
 ## 📄 مستندات
 
