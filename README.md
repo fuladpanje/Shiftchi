@@ -28,16 +28,14 @@ Shiftchi is a smart shift management application that helps users easily manage 
 
 ---
 
-<div dir="rtl" style="text-align: right;">
+<div dir="rtl" lang="fa" style="text-align: right; font-family: Tahoma, Arial;">
 
 <h3>فارسی</h3>
 
-<p>
-شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است که به کاربران کمک می‌کند تا شیفت‌های خود را به راحتی مدیریت کرده و با Google Calendar همگام‌سازی کنند.
-</p>
+<p>شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است که به کاربران کمک می‌کند تا شیفت‌های خود را به راحتی مدیریت کرده و با Google Calendar همگام‌سازی کنند.</p>
 
 <p><strong>امکانات:</strong></p>
-<ul>
+<ul style="list-style-position: inside;">
 <li>📊 مدیریت شیفت - ثبت و مدیریت آسان شیفت‌های کاری</li>
 <li>🔔 یادآوری هوشمند - اعلان برای شیفت‌های آینده</li>
 <li>📅 همگام‌سازی Google Calendar - همگام‌سازی خودکار با تقویم گوگل</li>
