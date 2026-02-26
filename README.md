@@ -1,0 +1,2 @@
+# Shiftchi
+Shift Manager App
