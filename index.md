@@ -3,7 +3,7 @@
 **اپلیکیشن حرفه‌ای مدیریت شیفت کاری**
 
 <p align="center">
-  <img src="pic/shiftchi.jpg" alt="شیفت‌چی" width="400">
+  <img src="pic/shiftchi.jpg" alt="شیفت‌چی" width="800">
 </p>
 
 ---

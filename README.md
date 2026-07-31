@@ -3,7 +3,7 @@
 **اپلیکیشن حرفه‌ای مدیریت شیفت کاری — Professional Work Shift Management App**
 
 <p align="center">
-  <img src="pic/shiftchi.jpg" alt="Shiftchi" width="400">
+  <img src="pic/shiftchi.jpg" alt="Shiftchi" width="800">
 </p>
 
 ---
