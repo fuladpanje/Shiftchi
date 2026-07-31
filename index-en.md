@@ -6,7 +6,12 @@
   <img src="pic/shiftchi.jpg" alt="Shiftchi" width="800">
 </p>
 
-**Version Platform:** Flutter
+<div align="center">
+
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)](https://github.com/fuladpanje/Shiftchi/releases)
+[![Platform](https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge)](https://github.com/fuladpanje/Shiftchi/releases)
+
+</div>
 
 ---
 
