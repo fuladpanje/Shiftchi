@@ -6,11 +6,15 @@
   <img src="pic/shiftchi.jpg" alt="شیفت‌چی" width="800">
 </p>
 
+**Version Platform:** Flutter
+
 ---
 
 ## درباره شیفت‌چی
 
 شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است که به کاربران کمک می‌کند شیفت‌های خود را به راحتی ثبت و مدیریت کنند و با Google Calendar همگام‌سازی نمایند.
+
+🌐 وبسایت: [shiftchi.fuladpanjeh.ir](https://shiftchi.fuladpanjeh.ir/)
 
 ### امکانات
 

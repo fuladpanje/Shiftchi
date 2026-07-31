@@ -6,11 +6,15 @@
   <img src="pic/shiftchi.jpg" alt="Shiftchi" width="800">
 </p>
 
+**Version Platform:** Flutter
+
 ---
 
 ## About Shiftchi
 
 Shiftchi is a smart application for managing work shifts. It helps users easily record and manage their shifts and sync them with Google Calendar.
+
+🌐 Website: [shiftchi.fuladpanjeh.ir](https://shiftchi.fuladpanjeh.ir/)
 
 ### Features
 

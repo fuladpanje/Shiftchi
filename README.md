@@ -6,6 +6,8 @@
   <img src="pic/shiftchi.jpg" alt="Shiftchi" width="800">
 </p>
 
+**Version Platform:** Flutter
+
 ---
 
 ## فارسی
@@ -13,6 +15,8 @@
 ### درباره شیفت‌چی
 
 شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است. با این اپلیکیشن می‌توانید شیفت‌های خود را به راحتی ثبت کنید، ساعات کار را محاسبه کنید و با Google Calendar همگام‌سازی نمایید.
+
+🌐 وبسایت: [shiftchi.fuladpanjeh.ir](https://shiftchi.fuladpanjeh.ir/)
 
 ### امکانات
 
@@ -65,6 +69,8 @@
 ### About
 
 Shiftchi is a smart work shift management application. It helps users easily record and manage their shifts, calculate work hours, and sync with Google Calendar.
+
+🌐 Website: [shiftchi.fuladpanjeh.ir](https://shiftchi.fuladpanjeh.ir/)
 
 ### Features
 
