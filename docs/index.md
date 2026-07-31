@@ -1,0 +1,53 @@
+# شیفت‌چی
+
+**اپلیکیشن حرفه‌ای مدیریت شیفت کاری**
+
+<p align="center">
+  <img src="pic/shiftchi.jpg" alt="شیفت‌چی" width="400">
+</p>
+
+---
+
+## درباره شیفت‌چی
+
+شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است که به کاربران کمک می‌کند شیفت‌های خود را به راحتی ثبت و مدیریت کنند و با Google Calendar همگام‌سازی نمایند.
+
+### امکانات
+- 📊 مدیریت شیفت‌های کاری
+- 🔔 یادآوری‌های هوشمند
+- 📅 همگام‌سازی با Google Calendar
+- 📈 گزارش‌گیری و آمار کاری
+- 💾 پشتیبان‌گیری و بازیابی اطلاعات
+- 🌙 حالت شب/روز
+- 🔐 ورود با Google برای همگام‌سازی با Google Calendar
+
+### تکنولوژی‌های استفاده شده
+- **Flutter** — فریم‌ورک توسعه اپلیکیشن‌های موبایل
+- **Google Sign-In** — ورود امن با حساب گوگل برای همگام‌سازی با Google Calendar
+
+---
+
+## دانلود اپلیکیشن
+
+| پلتفرم | لینک دانلود |
+|---------|------------|
+| 📥 دانلود مستقیم | [shiftchi.fuladpanjeh.ir](https://shiftchi.fuladpanjeh.ir/) |
+| 🟢 کافه‌بازار | [cafebazaar.ir](https://cafebazaar.ir/app/ir.shiftchi.app) |
+| 🔵 مایکت | [myket.ir](https://myket.ir/app/ir.shiftchi.app) |
+
+---
+
+## لینک‌های مفید
+
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Service](terms-of-service.md)
+
+---
+
+## تماس
+
+- **ایمیل:** takbaran.com@gmail.com
+
+---
+
+© 2026 Shiftchi. تمامی حقوق محفوظ است.

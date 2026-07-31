@@ -1,0 +1,6 @@
+# فایل‌هایی که نباید آپلود شوند
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+html/
