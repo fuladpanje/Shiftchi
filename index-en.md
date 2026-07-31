@@ -13,13 +13,37 @@
 Shiftchi is a smart application for managing work shifts. It helps users easily record and manage their shifts and sync them with Google Calendar.
 
 ### Features
-- 📊 Work shift management
-- 🔔 Smart reminders
-- 📅 Google Calendar sync
-- 📈 Reports and work statistics
-- 💾 Backup and data recovery
-- 🌙 Day/Night mode
-- 🔐 Google Sign-In for Google Calendar sync
+
+Shiftchi
+- Modern user interface
+- Data management
+- Image and PDF export
+- Notifications
+- Google Calendar sync
+
+Shift Management
+- Record shifts, leave, and overtime
+- Voice and text notes
+- Food meals and custom items
+- Solar calendar
+- Statistics and reporting
+
+Break Management
+- Shift break management
+
+Payroll Management
+- Record pay
+- Pay comparison
+- Currency conversion
+- Reporting
+
+Quality Assurance (QA)
+- Quality score recording
+- Reporting
+
+Key Performance Indicators (KPI)
+- Performance indicators
+- Reporting
 
 ### Built With
 - **Flutter** — Cross-platform mobile app framework

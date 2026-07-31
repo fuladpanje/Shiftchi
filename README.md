@@ -15,13 +15,37 @@
 شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است. با این اپلیکیشن می‌توانید شیفت‌های خود را به راحتی ثبت کنید، ساعات کار را محاسبه کنید و با Google Calendar همگام‌سازی نمایید.
 
 ### امکانات
-- 📊 مدیریت شیفت‌های کاری
-- 🔔 یادآوری‌های هوشمند
-- 📅 همگام‌سازی با Google Calendar
-- 📈 گزارش‌گیری و آمار کاری
-- 💾 پشتیبان‌گیری و بازیابی اطلاعات
-- 🌙 حالت شب/روز
-- 🔐 ورود با Google
+
+شیفت‌چی
+- رابط کاربری مدرن
+- مدیریت داده‌ها
+- خروجی تصویری و PDF
+- نوتیفیکیشن
+- همگام‌سازی با گوگل کلندر
+
+مدیریت شیفت
+- ثبت شیفت، مرخصی و اضافه کار
+- یادداشت صوتی و متنی
+- وعده غذایی و آیتم‌های دلخواه
+- تقویم شمسی
+- آمار و گزارش‌گیری
+
+مدیریت استراحت
+- مدیریت استراحت (برک) شیفت
+
+مدیریت حقوق و دستمزد
+- ثبت حقوق
+- مقایسه حقوق
+- تبدیل ارز
+- گزارش‌گیری
+
+تضمین کیفیت (QA)
+- ثبت امتیاز کیفیت
+- گزارش‌گیری
+
+شاخص‌های کلیدی عملکرد (KPI)
+- شاخص‌های عملکردی
+- گزارش‌گیری
 
 ### تکنولوژی‌ها
 - **Flutter** — فریم‌ورک توسعه اپلیکیشن‌های موبایل
@@ -43,13 +67,37 @@
 Shiftchi is a smart work shift management application. It helps users easily record and manage their shifts, calculate work hours, and sync with Google Calendar.
 
 ### Features
-- 📊 Work shift management
-- 🔔 Smart reminders
-- 📅 Google Calendar sync
-- 📈 Reports and work statistics
-- 💾 Backup and data recovery
-- 🌙 Day/Night mode
-- 🔐 Google Sign-In
+
+Shiftchi
+- Modern user interface
+- Data management
+- Image and PDF export
+- Notifications
+- Google Calendar sync
+
+Shift Management
+- Record shifts, leave, and overtime
+- Voice and text notes
+- Food meals and custom items
+- Solar calendar
+- Statistics and reporting
+
+Break Management
+- Shift break management
+
+Payroll Management
+- Record pay
+- Pay comparison
+- Currency conversion
+- Reporting
+
+Quality Assurance (QA)
+- Quality score recording
+- Reporting
+
+Key Performance Indicators (KPI)
+- Performance indicators
+- Reporting
 
 ### Built With
 - **Flutter** — Cross-platform mobile app framework
