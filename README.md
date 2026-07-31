@@ -1,335 +1,80 @@
-# Shiftchi - شیفت‌چی
+# شیفت‌چی | Shiftchi
 
-**Professional Shift Management Application**
+**اپلیکیشن حرفه‌ای مدیریت شیفت کاری — Professional Work Shift Management App**
 
-📧 **Contact:** takbaran.com@gmail.com
-
----
-
-## Table of Contents
-- [About](#about---درباره)
-- [Privacy Policy](#privacy-policy---سیاست-حفظ-حریم-خصوصی)
-- [Terms of Service](#terms-of-service---شرایط-استفاده)
+<p align="center">
+  <img src="pic/shiftchi.jpg" alt="Shiftchi" width="400">
+</p>
 
 ---
 
-## About - درباره
+## فارسی
 
-### About Shiftchi
-Shiftchi is a smart shift management application that helps users easily manage their work shifts and sync with Google Calendar.
+### درباره شیفت‌چی
 
-**Features:**
-- 📊 Shift Management - Easy recording and management of work shifts
-- 🔔 Smart Reminders - Notifications for upcoming shifts
-- 📅 Google Calendar Sync - Automatic synchronization with Google Calendar
-- 📈 Reports & Statistics - Analysis of work hours and overtime
-- 💾 Secure Backup - Encrypted data storage and recovery
-- 🌙 Day/Night Mode - Comfortable viewing in any lighting
+شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است. با این اپلیکیشن می‌توانید شیفت‌های خود را به راحتی ثبت کنید، ساعات کار را محاسبه کنید و با Google Calendar همگام‌سازی نمایید.
 
----
+### امکانات
+- 📊 مدیریت شیفت‌های کاری
+- 🔔 یادآوری‌های هوشمند
+- 📅 همگام‌سازی با Google Calendar
+- 📈 گزارش‌گیری و آمار کاری
+- 💾 پشتیبان‌گیری و بازیابی اطلاعات
+- 🌙 حالت شب/روز
+- 🔐 ورود با Google
 
-<div dir="rtl" lang="fa" style="text-align: right; font-family: Tahoma, Arial;">
+### تکنولوژی‌ها
+- **Flutter** — فریم‌ورک توسعه اپلیکیشن‌های موبایل
+- **Google Sign-In** — ورود امن با حساب گوگل برای همگام‌سازی با Google Calendar
 
-<h3>درباره شیفت‌چی</h3>
-
-<p>شیفت‌چی یک اپلیکیشن هوشمند برای مدیریت شیفت‌های کاری است که به کاربران کمک می‌کند تا شیفت‌های خود را به راحتی مدیریت کرده و با Google Calendar همگام‌سازی کنند.</p>
-
-<p><strong>امکانات:</strong></p>
-<ul style="list-style-position: inside;">
-<li>📊 مدیریت شیفت - ثبت و مدیریت آسان شیفت‌های کاری</li>
-<li>🔔 یادآوری هوشمند - اعلان برای شیفت‌های آینده</li>
-<li>📅 همگام‌سازی Google Calendar - همگام‌سازی خودکار با تقویم گوگل</li>
-<li>📈 گزارش و آمار - تحلیل ساعات کار و اضافه‌کاری</li>
-<li>💾 پشتیبان امن - ذخیره و بازیابی رمزنگاری شده</li>
-<li>🌙 حالت شب/روز - نمایش راحت در هر نوری</li>
-</ul>
-
-</div>
+### دانلود
+| پلتفرم | لینک |
+|---------|------|
+| 📥 دانلود مستقیم | [shiftchi.fuladpanjeh.ir](https://shiftchi.fuladpanjeh.ir/) |
+| 🟢 کافه‌بازار | [cafebazaar.ir](https://cafebazaar.ir/app/ir.shiftchi.app) |
+| 🔵 مایکت | [myket.ir](https://myket.ir/app/ir.shiftchi.app) |
 
 ---
 
-## Privacy Policy - سیاست حفظ حریم خصوصی
+## English
 
-**Last Updated:** February 2026
+### About
 
-### Privacy Policy
+Shiftchi is a smart work shift management application. It helps users easily record and manage their shifts, calculate work hours, and sync with Google Calendar.
 
-#### Summary
-Shiftchi takes your privacy seriously. We only collect information necessary for the app's functionality and never share it with third parties.
+### Features
+- 📊 Work shift management
+- 🔔 Smart reminders
+- 📅 Google Calendar sync
+- 📈 Reports and work statistics
+- 💾 Backup and data recovery
+- 🌙 Day/Night mode
+- 🔐 Google Sign-In
 
-#### 1. Information We Collect
-- **Phone Number:** For registration and authentication
-- **Google Email (Optional):** Only if you sign in with Google
-- **Shift Data:** Date, time, location, notes, breaks, overtime
-- **Technical Data:** Device type, OS version, error logs (troubleshooting only)
+### Built With
+- **Flutter** — Cross-platform mobile app framework
+- **Google Sign-In** — Secure authentication for Google Calendar integration
 
-#### 2. How We Use Your Information
-- **Shift Management:** Store and display your work shifts
-- **Google Calendar Sync:** Add shifts to your calendar (only if enabled)
-- **Reminders:** Send notifications for upcoming shifts
-- **Backup:** Securely store your information
-- **App Improvement:** Fix bugs and optimize performance
-
-#### 3. Google Calendar Integration
-> **Important:** Using Google Calendar is completely optional.
-
-- We only create, edit, or delete shift-related events
-- No other calendar events are accessed
-- You can disable this anytime
-- Disconnecting revokes all access immediately
-
-#### 4. Data Security
-- All information is encrypted
-- We use Supabase with international security standards
-- Only you have access to your information
-- Backups are stored encrypted
-
-#### 5. Information Sharing
-> **We never sell or rent your information.**
-
-Your data is only shared:
-- With Google Calendar (if enabled by you)
-- When required by law
-
-#### 6. Your Rights
-- **Access:** View all stored information
-- **Edit:** Change or correct your data
-- **Delete:** Completely remove your account
-- **Export:** Receive a backup copy
-- **Disconnect:** Revoke Google Calendar access
-
-#### 7. Data Deletion
-1. Go to app settings
-2. Select "Delete Account"
-3. All data will be permanently deleted
-
-#### 8. Children
-This app is not designed for individuals under 13 years of age.
+### Download
+| Platform | Link |
+|----------|------|
+| 📥 Direct Download | [shiftchi.fuladpanjeh.ir](https://shiftchi.fuladpanjeh.ir/) |
+| 🟢 Cafe Bazaar | [cafebazaar.ir](https://cafebazaar.ir/app/ir.shiftchi.app) |
+| 🔵 Myket | [myket.ir](https://myket.ir/app/ir.shiftchi.app) |
 
 ---
 
-<div dir="rtl" lang="fa" style="text-align: right; font-family: Tahoma, Arial;">
+## Documentation
 
-<h3>سیاست حفظ حریم خصوصی</h3>
+- [Privacy Policy (فارسی)](privacy-policy.md)
+- [Privacy Policy (English)](privacy-policy-en.md)
+- [Terms of Service (فارسی)](terms-of-service.md)
+- [Terms of Service (English)](terms-of-service-en.md)
 
-<h4>خلاصه</h4>
-<p>شیفت‌چی حریم خصوصی شما را جدی می‌گیرد. ما فقط اطلاعات ضروری را جمع‌آوری می‌کنیم و هیچ‌گاه آن‌ها را به اشتراک نمی‌گذاریم.</p>
+## Contact
 
-<h4>1. اطلاعاتی که جمع‌آوری می‌کنیم</h4>
-<ul style="list-style-position: inside;">
-<li><strong>شماره تلفن:</strong> برای ثبت‌نام و احراز هویت</li>
-<li><strong>ایمیل Google (اختیاری):</strong> فقط در صورت ورود با Google</li>
-<li><strong>اطلاعات شیفت:</strong> تاریخ، زمان، مکان، یادداشت، استراحت، اضافه‌کاری</li>
-<li><strong>اطلاعات فنی:</strong> نوع دستگاه، نسخه سیستم‌عامل، لاگ خطا (فقط رفع مشکل)</li>
-</ul>
-
-<h4>2. نحوه استفاده از اطلاعات</h4>
-<ul style="list-style-position: inside;">
-<li><strong>مدیریت شیفت:</strong> ذخیره و نمایش شیفت‌های کاری</li>
-<li><strong>همگام‌سازی Google Calendar:</strong> اضافه کردن شیفت‌ها به تقویم (فقط در صورت فعال‌سازی)</li>
-<li><strong>یادآوری:</strong> ارسال اعلان برای شیفت‌های آینده</li>
-<li><strong>پشتیبان:</strong> ذخیره امن اطلاعات</li>
-<li><strong>بهبود اپ:</strong> رفع باگ و بهینه‌سازی</li>
-</ul>
-
-<h4>3. همگام‌سازی Google Calendar</h4>
-<blockquote><strong>مهم:</strong> استفاده از Google Calendar کاملاً اختیاری است.</blockquote>
-<ul style="list-style-position: inside;">
-<li>فقط رویدادهای شیفت کاری را ایجاد، ویرایش یا حذف می‌کنیم</li>
-<li>هیچ رویداد دیگری دسترسی ندارد</li>
-<li>هر زمان می‌توانید غیرفعال کنید</li>
-<li>با قطع اتصال، تمام دسترسی‌ها لغو می‌شود</li>
-</ul>
-
-<h4>4. امنیت اطلاعات</h4>
-<ul style="list-style-position: inside;">
-<li>تمام اطلاعات رمزنگاری می‌شوند</li>
-<li>از Supabase با استانداردهای بین‌المللی استفاده می‌کنیم</li>
-<li>فقط شما به اطلاعات دسترسی دارید</li>
-<li>پشتیبان‌ها رمزنگاری ذخیره می‌شوند</li>
-</ul>
-
-<h4>5. اشتراک‌گذاری اطلاعات</h4>
-<blockquote><strong>ما هیچ‌گاه اطلاعات شما را نمی‌فروشیم.</strong></blockquote>
-<p>اطلاعات فقط در این موارد به اشتراک می‌رود:</p>
-<ul style="list-style-position: inside;">
-<li>با Google Calendar (در صورت فعال‌سازی)</li>
-<li>در صورت الزام قانونی</li>
-</ul>
-
-<h4>6. حقوق شما</h4>
-<ul style="list-style-position: inside;">
-<li><strong>دسترسی:</strong> مشاهده تمام اطلاعات</li>
-<li><strong>ویرایش:</strong> تغییر یا اصلاح اطلاعات</li>
-<li><strong>حذف:</strong> حذف کامل حساب</li>
-<li><strong>صادرات:</strong> دریافت نسخه پشتیبان</li>
-<li><strong>قطع اتصال:</strong> لغو دسترسی Google Calendar</li>
-</ul>
-
-<h4>7. حذف اطلاعات</h4>
-<ol style="list-style-position: inside;">
-<li>به تنظیمات اپلیکیشن بروید</li>
-<li>"حذف حساب کاربری" را انتخاب کنید</li>
-<li>تمام اطلاعات به صورت دائمی حذف می‌شود</li>
-</ol>
-
-<h4>8. کودکان</h4>
-<p>این اپلیکیشن برای افراد زیر 13 سال طراحی نشده است.</p>
-
-</div>
-
----
-
-## Terms of Service - شرایط استفاده
-
-**Last Updated:** February 2026
-
-### Terms of Service
-
-#### Summary
-By using Shiftchi, you agree to use the application legally and responsibly.
-
-#### 1. Acceptance
-By using Shiftchi, you accept these terms. If you disagree, please don't use the app.
-
-#### 2. Services
-- Recording and managing work shifts
-- Calculating work hours and overtime
-- Shift reminders
-- Google Calendar sync (optional)
-- Reports and statistics
-- Backup and restore
-
-#### 3. User Account
-- You must create an account
-- Information must be accurate
-- You're responsible for account security
-- One account per person
-
-#### 4. Permitted Use
-- Use only for legal purposes
-- Enter accurate information
-- Respect other users
-- No misuse
-
-#### 5. Prohibited Use
-- Hacking or breaching the system
-- Using bots or automated tools
-- Copying the application
-- Publishing illegal content
-- Disrupting functionality
-
-#### 6. Google Calendar
-> **Optional feature**
-
-- Allows app to create shifts in your calendar
-- Only shift events are created
-- Can be disabled anytime
-
-#### 7. Intellectual Property
-- App rights belong to Shiftchi
-- You own your personal data
-- We may use your feedback
-
-#### 8. Liability
-App provided "as is":
-- No guarantee of error-free operation
-- Not responsible for data loss (we try to prevent it)
-- May suspend services for maintenance
-
-#### 9. Termination
-**By You:** Delete account anytime. All data permanently deleted.
-
-**By Us:** May block account for:
-- Terms violation
-- Illegal use
-- Suspicious activity
-- Legal requirements
-
----
-
-<div dir="rtl" lang="fa" style="text-align: right; font-family: Tahoma, Arial;">
-
-<h3>شرایط استفاده</h3>
-
-<h4>خلاصه</h4>
-<p>با استفاده از شیفت‌چی، شما موافقت می‌کنید که از اپلیکیشن به صورت قانونی استفاده کنید.</p>
-
-<h4>1. پذیرش</h4>
-<p>با استفاده از شیفت‌چی، این شرایط را می‌پذیرید. در غیر این صورت از اپ استفاده نکنید.</p>
-
-<h4>2. خدمات</h4>
-<ul style="list-style-position: inside;">
-<li>ثبت و مدیریت شیفت‌های کاری</li>
-<li>محاسبه ساعات کار و اضافه‌کاری</li>
-<li>یادآوری شیفت‌ها</li>
-<li>همگام‌سازی Google Calendar (اختیاری)</li>
-<li>گزارش و آمار</li>
-<li>پشتیبان و بازیابی</li>
-</ul>
-
-<h4>3. حساب کاربری</h4>
-<ul style="list-style-position: inside;">
-<li>باید حساب ایجاد کنید</li>
-<li>اطلاعات باید دقیق باشد</li>
-<li>مسئول امنیت حساب هستید</li>
-<li>یک حساب به ازای هر نفر</li>
-</ul>
-
-<h4>4. استفاده مجاز</h4>
-<ul style="list-style-position: inside;">
-<li>فقط برای اهداف قانونی</li>
-<li>وارد کردن اطلاعات دقیق</li>
-<li>احترام به سایر کاربران</li>
-<li>بدون سوء استفاده</li>
-</ul>
-
-<h4>5. استفاده غیرمجاز</h4>
-<ul style="list-style-position: inside;">
-<li>هک یا نفوذ به سیستم</li>
-<li>استفاده از ربات</li>
-<li>کپی اپلیکیشن</li>
-<li>انتشار محتوای غیرقانونی</li>
-<li>اختلال در عملکرد</li>
-</ul>
-
-<h4>6. Google Calendar</h4>
-<blockquote><strong>قابلیت اختیاری</strong></blockquote>
-<ul style="list-style-position: inside;">
-<li>اجازه ایجاد شیفت در تقویم</li>
-<li>فقط رویدادهای شیفت ایجاد می‌شود</li>
-<li>هر زمان قابل غیرفعال‌سازی</li>
-</ul>
-
-<h4>7. مالکیت معنوی</h4>
-<ul style="list-style-position: inside;">
-<li>حقوق اپ متعلق به شیفت‌چی</li>
-<li>شما مالک اطلاعات شخصی خود</li>
-<li>ما ممکن است از بازخوردها استفاده کنیم</li>
-</ul>
-
-<h4>8. مسئولیت</h4>
-<p>اپ "همان‌طور که هست" ارائه می‌شود:</p>
-<ul style="list-style-position: inside;">
-<li>تضمین بدون خطا نیست</li>
-<li>مسئول از دست رفتن اطلاعات نیستیم (تلاش می‌کنیم جلوگیری کنیم)</li>
-<li>ممکن است خدمات را موقتاً متوقف کنیم</li>
-</ul>
-
-<h4>9. لغو حساب</h4>
-<p><strong>توسط شما:</strong> هر زمان حذف کنید. تمام اطلاعات دائماً حذف می‌شود.</p>
-<p><strong>توسط ما:</strong> ممکن است حساب را مسدود کنیم برای:</p>
-<ul style="list-style-position: inside;">
-<li>نقض شرایط</li>
-<li>استفاده غیرقانونی</li>
-<li>فعالیت مشکوک</li>
-<li>الزامات قانونی</li>
-</ul>
-
-</div>
+- **Email:** takbaran.com@gmail.com
 
 ---
 
 © 2026 Shiftchi. All rights reserved.
-
-**Contact:** takbaran.com@gmail.com
